@@ -153,7 +153,7 @@ function ChucklePostAI(AI_option) {
       const title = document.title;
       
       try {
-        const response = await fetch('替换成你自己的后端接口', {
+        const response = await fetch('https://notion-ai.hnslbssz3.workers.dev/', {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
