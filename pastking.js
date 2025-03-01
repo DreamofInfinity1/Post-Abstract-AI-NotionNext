@@ -153,7 +153,7 @@ function ChucklePostAI(AI_option) {
       const title = document.title;
       
       try {
-        const response = await fetch('https://notionai.dreamofinfinity1.top/api/summary/?token=990a80sd8asdfahjafghsfdsg', {
+        const response = await fetch('https://notionai.dreamofinfinity1.top/api/summary?token=590123', {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
