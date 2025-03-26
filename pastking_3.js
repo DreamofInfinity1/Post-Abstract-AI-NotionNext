@@ -33,7 +33,7 @@ function ChucklePostAI(AI_option) {
     const style = document.createElement('style');
     style.textContent = `
       .post-ai {
-        font-family: 'Noto Sans SC', sans-serif;
+        font-family: 'Maple Mono CN ExtraBold', sans-serif;
         margin-bottom: 20px;
       }
       .ai-container {
